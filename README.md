@@ -6,6 +6,7 @@ Simple demo console app to explain HostBuilder API which will be released with .
 All demostration is done with .NET Core 2.1 Preview version. 
 Included packages are like below;
 
+```xml
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="2.1.0-preview1-final" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="2.1.0-preview1-final" />
@@ -14,3 +15,4 @@ Included packages are like below;
     <PackageReference Include="Microsoft.Extensions.Logging.Configuration" Version="2.1.0-preview1-final" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="2.1.0-preview1-final" />
   </ItemGroup>
+```
