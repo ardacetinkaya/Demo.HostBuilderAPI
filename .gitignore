@@ -58,3 +58,6 @@ obj/Debug/netcoreapp5.0/SomeKindOfProcessor.csproj.CoreCompileInputs.cache
 obj/Debug/netcoreapp5.0/SomeKindOfProcessor.csproj.FileListAbsolute.txt
 obj/Debug/netcoreapp5.0/SomeKindOfProcessor.csprojAssemblyReference.cache
 obj/Debug/netcoreapp5.0/SomeKindOfProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/.vs
+/bin/Debug/net5.0
+/obj
